@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h3><a href="https://www.youtube.com/watch?v=XhoWXhyuW_I">Text encoder (GithubPages)</a></h3>
+    <h3><a href="https://eldiiar0.github.io/FrontMid/">Text encoder (GithubPages)</a></h3>
 </div>
 
 ## Technology
